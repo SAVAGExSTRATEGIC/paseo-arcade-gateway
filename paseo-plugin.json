@@ -1,0 +1,6 @@
+{
+  "id": "arcade-gateway",
+  "name": "Arcade Gateway for Paseo",
+  "description": "Connect your own Arcade gateway to interactive Codex sessions in Paseo.",
+  "requirements": { "paseo": ">=0.17.4" }
+}
